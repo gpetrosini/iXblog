@@ -1,0 +1,4 @@
+baseURL = "https://gpetrosini.github.io/"
+languageCode = "en-us"
+title = "Em Lisboa"
+theme = "paper"

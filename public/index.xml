@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Em Lisboa</title>
+    <link>https://gpetrosini.github.io/</link>
+    <description>Recent content on Em Lisboa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 18:27:41 +0100</lastBuildDate>
+    
+	<atom:link href="https://gpetrosini.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poker</title>
+      <link>https://gpetrosini.github.io/posts/my-second-post/</link>
+      <pubDate>Tue, 28 May 2019 18:27:41 +0100</pubDate>
+      
+      <guid>https://gpetrosini.github.io/posts/my-second-post/</guid>
+      <description>The first project I have completed here in Lisbon includes the blog you are currently reading and the poker game in this repo . To write the code for this poker game I needed to understand two topics that I had lots of trouble with: classes and functions. With lots of help from Manuel, Brad, Genc, and my classmates I was finally able to create a poker game that works! Though it doesn&amp;rsquo;t take the suits into account, I am very proud of my project.</description>
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>https://gpetrosini.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 28 May 2019 18:01:01 +0100</pubDate>
+      
+      <guid>https://gpetrosini.github.io/posts/my-first-post/</guid>
+      <description>I am so excited to be in Lisbon. By the end of my 6 weeks I hope to make a Portuguese friend and have a basic understanding of Python and R and be able to use numpy and beaver. I hope to learn a lot because I have no coding experience whatsoever. I am also hoping to learn some Portuguese. Can&amp;rsquo;t wait to explore!</description>
+    </item>
+    
+  </channel>
+</rss>
